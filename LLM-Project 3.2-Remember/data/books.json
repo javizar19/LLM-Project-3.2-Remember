@@ -1,0 +1,76 @@
+[
+    {
+        "id":1,
+        "title":"Call of duty ww2",
+        "yearRelease": "descripcion",
+        "price":10,
+        "writers":[
+                {
+                    "name":"Desarrollador",
+                    "surname": "desarrollador2",
+                    "country":"Japan"
+                },
+                {
+                    "name":"Jefe",
+                    "surname": "Zarco",
+                    "country":"Japan"
+                }
+        ],
+        "img":"callofdutyww2.jpg"
+
+    },
+    {
+        "id":2,
+        "title":"Narnia",
+        "yearRelease": 1995,
+        "price":10,
+        "writers":[
+                {
+                    "name":"Isaac",
+                    "surname": "Asimov",
+                    "country":"England"
+                }
+        ]
+
+    },
+    {
+        "id":3,
+        "title":"Harry Potter",
+        "yearRelease": 2000,
+        "price":30,
+        "writers":[
+                {
+                    "name":"Marta",
+                    "surname": "Salanova",
+                    "country":"Spain"
+                },
+                {
+                    "name":"Joanne",
+                    "surname": "Rowling",
+                    "country":"England"
+                }
+        ]
+
+    },
+    {
+        "id":4,
+        "title":"La casa de miedo",
+        "yearRelease": 1990,
+        "price":15,
+        "writers":[
+                {
+                    "name":"Maria",
+                    "surname": "Hernández",
+                    "country":"France"
+                },
+                {
+                    "name":"Marisa",
+                    "surname": "Salire",
+                    "country":"France"
+                }
+        ]
+
+    }
+
+
+]

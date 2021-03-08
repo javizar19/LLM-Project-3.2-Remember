@@ -1,0 +1,144 @@
+{
+    "nameCollection":"Videogames",
+    "year":2021,
+    "videogames":[
+        {
+            "id":1,
+            "name":"Call of duty World War",
+            "description":"juego bélico",
+            "filtcat":"gue",
+            "valoration":"star-4.png",
+            "img":"callofdutyww2.jpg"
+        },
+        {
+            "id":2,
+            "name":"Entrada de cine y palomitas",
+            "description":"Aficine",
+            "filtcat":"gue",
+            "valoration":"star-4.5.png",
+            "number_valoration":2.121,
+            "price":5.90,
+            "img":"groupon-2.jpg"
+        },
+        {
+            "id":3,
+            "name":"Limpieza bucal con empaste",
+            "description":"Clínica Mallorca Med",
+            "filtcat":"gue",
+            "valoration":"star-4.png",
+            "number_valoration":11,
+            "price":14.95,
+            "img":"groupon-3.jpg"
+        },
+        {
+            "id":4,
+            "name":"Peluquería: corte, tinte y mechas",
+            "description":"4 Tendencias",
+            "filtcat":"gue",
+            "valoration":"star-4.png",
+            "price":14.95,
+            "number_valoration":213,
+            "img":"groupon-4.jpg"
+        },
+        {
+            "id":5,
+            "name":"Almmohada con foto",
+            "description":"Photo Gift",
+            "filtcat":"gue",
+            "valoration":"star-4.png",
+            "number_valoration":105,
+            "price":25.95,
+            "img":"groupon-5.jpg"
+        },
+        {
+            "id":6,
+            "name":"Sesión de masaje ayurvédico",
+            "description":"Gabinete Pilar Ramos",
+            "filtcat":"gue",
+            "valoration":"star-5.png",
+            "number_valoration":36,
+            "price":14.99,
+            "img":"groupon-6.jpg"
+        },
+        {
+            "id":7,
+            "name":"Peluquería con tinte, mechas o queratina",
+            "description":"EyM Estilistas",
+            "filtcat":"gue",
+            "valoration":"star-4.5.png",
+            "number_valoration":221,
+            "price":14.95,
+            "img":"groupon-7.jpg"
+        },
+        {
+            "id":8,
+            "name":"Buffet libre con bebida",
+            "description":"Buffet Jordi d'Es Recó",
+            "filtcat":"gue",
+            "valoration":"star-4.png",
+            "number_valoration":78,
+            "price":14.99,
+            "img":"groupon-8.jpg"
+        },
+        {
+            "id":9,
+            "name":"Visita la finca 'Els Calderers'",
+            "description":"Sant Joan - Mallorca",
+            "filtcat":"gue",
+            "valoration":"star-5.png",
+            "number_valoration":105,
+            "price":4.95,
+            "img":"groupon-9.jpg"
+        },
+        {
+            "id":10,
+            "name":"Visita la finca 'Els Calderers'",
+            "description":"Sant Joan - Mallorca",
+            "filtcat":"gue",
+            "valoration":"star-5.png",
+            "number_valoration":105,
+            "price":4.95,
+            "img":"groupon-9.jpg"
+        },
+        {
+            "id":11,
+            "name":"Visita la finca 'Els Calderers'",
+            "description":"Sant Joan - Mallorca",
+            "filtcat":"gue",
+            "valoration":"star-5.png",
+            "number_valoration":105,
+            "price":4.95,
+            "img":"groupon-9.jpg"
+        },
+        {
+            "id":12,
+            "name":"Visita la finca 'Els Calderers'",
+            "description":"Sant Joan - Mallorca",
+            "filtcat":"gue",
+            "valoration":"star-5.png",
+            "number_valoration":105,
+            "price":4.95,
+            "img":"groupon-9.jpg"
+        },
+        {
+            "id":13,
+            "name":"Visita la finca 'Els Calderers'",
+            "description":"Sant Joan - Mallorca",
+            "filtcat":"gue",
+            "valoration":"star-5.png",
+            "number_valoration":105,
+            "price":4.95,
+            "img":"groupon-9.jpg"
+        },
+        {
+            "id":14,
+            "name":"Visita la finca 'Els Calderers'",
+            "description":"Sant Joan - Mallorca",
+            "clase":"gue",
+            "valoration":"star-5.png",
+            "number_valoration":105,
+            "price":4.95,
+            "img":"groupon-9.jpg"
+        }
+    ]
+}
