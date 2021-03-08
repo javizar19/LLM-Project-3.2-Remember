@@ -55,7 +55,7 @@ body{
 .contenedor .sidebar{
     grid-column-start: 3;
     grid-column-end: 4;
-    background: #Faa43d;
+    background: #274ac1;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -112,13 +112,19 @@ img .valoracion{
 .contenedor .contenido .tabla{
     display: flex;
     justify-content: center;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    margin-right: 250px;
+    margin-left: 10px;
 }
 
 table, th, td {
     display: flex;
 }
 th, td {
-    text-align: center;
+    text-align: left;
+    max-width: 900px;
+    justify-content: space-between;
 }
 
 @media screen and (max-width: 768px){

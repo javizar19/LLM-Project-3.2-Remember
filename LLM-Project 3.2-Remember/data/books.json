@@ -2,8 +2,8 @@
     {
         "id":1,
         "title":"Call of duty ww2",
-        "yearRelease": "descripcion",
-        "price":10,
+        "yearRelease": "Es un videojuego de disparos en primera persona desarrollado por Sledgehammer Games, distribuido por Activision, perteneciente a la franquicia Call of Duty y es la décimo cuarta entrega de la saga",
+        "price":40,
         "writers":[
                 {
                     "name":"Desarrollador",
@@ -21,23 +21,24 @@
     },
     {
         "id":2,
-        "title":"Narnia",
-        "yearRelease": 1995,
-        "price":10,
+        "title":"Fifa 21",
+        "yearRelease": "Es un videojuego de simulación de fútbol del año 2020 disponible para Microsoft Windows, PlayStation 4, Xbox One y Nintendo Switch el 9 de octubre de 2020, y aparte es el primer videojuego de la serie FIFA para Google Stadia, PlayStation 5 y Xbox Series X|S",
+        "price":59,
         "writers":[
                 {
                     "name":"Isaac",
                     "surname": "Asimov",
                     "country":"England"
                 }
-        ]
+        ],
+        "img":"fifa-21.jpg"
 
     },
     {
         "id":3,
-        "title":"Harry Potter",
-        "yearRelease": 2000,
-        "price":30,
+        "title":"Apex Legends",
+        "yearRelease": "Es un videojuego gratuito perteneciente al género battle royale desarrollado por Respawn Entertainment y publicado por Electronic Arts. Fue lanzado para Microsoft Windows, PlayStation 4 y Xbox One el 4 de febrero de 2019.",
+        "price": "0",
         "writers":[
                 {
                     "name":"Marta",
@@ -49,14 +50,15 @@
                     "surname": "Rowling",
                     "country":"England"
                 }
-        ]
+        ],
+        "img":"apex.jpg"
 
     },
     {
         "id":4,
-        "title":"La casa de miedo",
-        "yearRelease": 1990,
-        "price":15,
+        "title":"Star Wars Jedi: Fallen Order",
+        "yearRelease": "Es un videojuego de acción y aventura para un solo jugador desarrollado por Respawn Entertainment y publicado por Electronic Arts, ambientado en el universo de Star Wars. La trama se sitúa entre el Episodio lll: La Venganza de los Sith y el Episodio lV: Una Nueva Esperanza.​",
+        "price":69.99,
         "writers":[
                 {
                     "name":"Maria",
@@ -68,7 +70,8 @@
                     "surname": "Salire",
                     "country":"France"
                 }
-        ]
+        ],
+        "img":"starwars.jpeg"
 
     }
 

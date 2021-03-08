@@ -95,16 +95,12 @@ function populateTable(data) {
         htmlWriters = htmlWriters.substr(0, htmlWriters.length - 1);
 
         let htmlBook = `
-                    <table>
-                            <thead>
-                                <th><h4>Éxito  ${book.id}</h4></th>
-                            </thead>
-                        </table>
+                    
               <tr>
-                  <th>${book.title}</th>
+                  <th><u><i> ${book.title}<i></u></th>
                   <td>${book.yearRelease}</td>
-                  <td>${book.price}&euro;</td>
-                  <img src="./img/${book.img} " alt="" style="height: 150px;" width="200px">
+                  <td><b>${book.price}€</b></td>
+                  <img src="./img/${book.img} " alt="" style="height: 150px;margin-bottom: 20px;">
               </tr>
           `;
         // Add the new row with all data of one book
