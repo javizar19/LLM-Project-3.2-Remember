@@ -97,11 +97,12 @@ function populateTable(data) {
         let htmlBook = `
                     
               <tr>
-                  <th><u><i> ${book.title}<i></u></th>
+                  <th><u><i>${book.title}<i></u></th>
                   <td>${book.yearRelease}</td>
                   <td><b>${book.price}€</b></td>
                   <img src="./img/${book.img} " alt="" style="height: 150px;margin-bottom: 20px;">
               </tr>
+              <hr style="height:3px">
           `;
         // Add the new row with all data of one book
         tagContainer.innerHTML += htmlBook;
@@ -142,6 +143,10 @@ function saveUserInStorage() {
     }
 }
 
+function login(){
+        alert("Has iniciado sesión correctamente");
+}
+
 function getUserFromStorage() {
     // Recupera l'item del storage i el transforma a un objecte JSON.
     let userObjStorage = JSON.parse(localStorage.getItem("user"));
@@ -151,3 +156,5 @@ function getUserFromStorage() {
                            <p>Mobile: ${userObjStorage.mobile} </p>
                           `;
 }
+
+

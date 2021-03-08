@@ -10,9 +10,9 @@ body{
 }
 
 .contenedor{
-    width: 90%;
-    max-width: 1400px;
-    margin: 20px auto;
+    width: 100%;
+    max-width: 1600px;
+    margin: 10px auto;
     display: grid;
     grid-gap: 20px;
     grid-template-columns: repeat(3, 1fr);
@@ -20,7 +20,7 @@ body{
     
     grid-template-areas:"header header login"
                         "contenido contenido sidebar"
-                        "widget-1 widget-2 sidebar"
+                        "contenido contenido sidebar"
                         "footer footer footer";
 }
 
@@ -35,7 +35,6 @@ body{
 }
 
 .contenedor .header{
-    background: #11203E;
     color: #fff;
     /* grid-column-start: 1 ;
     grid-column-end: -1; */
@@ -55,7 +54,6 @@ body{
 .contenedor .sidebar{
     grid-column-start: 3;
     grid-column-end: 4;
-    background: #274ac1;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -63,7 +61,7 @@ body{
     grid-row-end: 4; */
     min-height: 100px;
     grid-area: sidebar;
-
+    border: #11203E 2px outset;
     max-height: 1054px;
 }
 .contenedor .widget-1{
@@ -126,6 +124,11 @@ th, td {
     max-width: 900px;
     justify-content: space-between;
 }
+
+hr {
+    height: 1px;
+    background-color: red;
+  }
 
 @media screen and (max-width: 768px){
     .contenedor{
