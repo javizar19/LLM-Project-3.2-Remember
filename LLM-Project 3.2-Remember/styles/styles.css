@@ -6,7 +6,7 @@
 body{
     background-image: url("https://i.pinimg.com/originals/74/43/a3/7443a31b6a19e5630b94a6538ff9bdd1.gif") ;
     color: black;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 
 .contenedor{
@@ -49,6 +49,14 @@ body{
     grid-area: contenido;
     display: flexbox;
     grid-template-columns: repeat(auto-fill,minmax(160px, 1fr));
+}
+
+.contenedor #list-books {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    grid-area: auto;
+    grid-column-gap:10%;
+    text-align: justify;
 }
 
 .contenedor .sidebar{
@@ -133,9 +141,8 @@ hr {
 @media screen and (max-width: 768px){
     .contenedor{
         grid-template-areas:"header header login"
-                            "contenido contenido contenido"
-                            "sidebar sidebar sidebar"
-                            "widget-1 widget-1 widget-2"
+                            "contenido contenido login"
+                            "contenido contenido sidebar"
                             "footer footer footer";
     }
     body{

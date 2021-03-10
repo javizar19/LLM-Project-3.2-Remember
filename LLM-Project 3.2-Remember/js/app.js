@@ -1,37 +1,4 @@
 
-function validar() {
-    var usuario = document.getElementById("usuario").value;
-    var Contraseña = document.getElementById("pass").value;
-
-    if (usuario == "javier" && Contraseña == "1234") {
-        alert("Usuario y Contraseña validos");
-    }
-    else {
-        alert("Verifique sus credenciales");
-    }
-}
-
-function filtcat(c) {
-
-    var x = document.getElementById("todo");
-
-    var y = x.querySelectorAll("div");
-
-    var i, c;
-
-    for (i = 0; i < y.length; i++) {
-
-        if (y[i].className == c || c == "all") { y[i].style.display = "inline-block" }
-
-        else { y[i].style.display = "none" }
-
-    }
-
-}
-
-
-
-
 function comprar(){
     alert("Añadido a la lista de compra")
 }
@@ -85,7 +52,7 @@ function populateTable(data) {
     // For every book we must create a row
     data.forEach(book => {
 
-        console.log("datos del libro", book.title);
+        console.log("Éxito número 1;", book.title);
 
         // Content of info writers
         let htmlWriters = "";
@@ -95,13 +62,10 @@ function populateTable(data) {
         htmlWriters = htmlWriters.substr(0, htmlWriters.length - 1);
 
         let htmlBook = `
-                    
-              <tr>
-                  <th><u><i>${book.title}<i></u></th>
-                  <td>${book.yearRelease}</td>
-                  <td><b>${book.price}€</b></td>
+                  <u><i><b>${book.title}</b><i></u>
+                  ${book.yearRelease}<br>
+                  <b>Precio del producto: ${book.price}€</b><br>
                   <img src="./img/${book.img} " alt="" style="height: 150px;margin-bottom: 20px;">
-              </tr>
               <hr style="height:3px">
           `;
         // Add the new row with all data of one book
@@ -110,7 +74,7 @@ function populateTable(data) {
     });
 }
 
-console.log("no sé como va");
+console.log("Programar mola!");
 
 class Auto {
 
@@ -140,21 +104,13 @@ function saveUserInStorage() {
         //convierte json en texto JSON.stringify
         localStorage.setItem("user", JSON.stringify(userObj));
         alert("Usuario registrado correctamente");
+        console.log("Usuario registrado correctamente");
     }
 }
 
+
+
 function login(){
         alert("Has iniciado sesión correctamente");
+        console.log("Sesión iniciada correctamente");
 }
-
-function getUserFromStorage() {
-    // Recupera l'item del storage i el transforma a un objecte JSON.
-    let userObjStorage = JSON.parse(localStorage.getItem("user"));
-    console.log(userObjStorage);
-    let container = document.getElementById("container-user");
-    container.innerHTML = `<p>Name: ${userObjStorage.name} </p>
-                           <p>Mobile: ${userObjStorage.mobile} </p>
-                          `;
-}
-
-
