@@ -1,0 +1,39 @@
+{
+    "nameCollection":"Viajes",
+    "year":2021,
+    "figures":[
+        {
+            "id":1,
+            "name":"España",
+            "img":"españa.png"
+        },
+        {
+            "id":2,
+            "name":"Portugal",
+            "img":"portugal.png"
+        },
+        {
+            "id":3,
+            "name":"Suiza",
+            "img":"suiza.png"
+        },
+        {
+            "id":4,
+            "name":"Alemania",
+            "img":"alemania.png"
+        },
+        {
+            "id":5,
+            "name":"Italia",
+            "description":"information of hero",
+            "price":124.95,
+            "type":"good",
+            "img":"italia.png"
+        },
+        {
+            "id":6,
+            "name":"Bélgica",
+            "img":"belgica.jpg"
+        }
+    ]
+}

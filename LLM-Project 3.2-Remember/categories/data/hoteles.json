@@ -1,38 +1,48 @@
 {
-    "nameCollection":"Canciones",
+    "nameCollection":"Hoteles",
     "year":2021,
     "figures":[
         {
             "id":1,
-            "name":"Hotel 1",
-            "description":"information of hero",
-            "price":19.95,
-            "type":"bad",
-            "img":"figure-1-dementor.png"
+            "name":"Hipotels Gran Playa de Palma",
+            "description":"El Hipotels Gran Playa de Palma está situado en Playa de Palma y ofrece vistas al mar y piscina exterior de temporada. ",
+            "price":82.13,
+            "img":"hipotels.webp"
         },
         {
             "id":2,
-            "name":"Hotel 2",
-            "description":"information of hero",
-            "price":75,
-            "type":"good",
-            "img":"figure-2-flash.png"
+            "name":"Hotel Negresco - Adults Only",
+            "description":"El Negresco está situado en el paseo marítimo de Playa de Palma y cuenta con una piscina al aire libre. ",
+            "price":120,
+            "img":"negresco.webp"
         },
         {
             "id":3,
-            "name":"Hotel 3",
-            "description":"information of hero",
-            "price":20,
-            "type":"good",
-            "img":"figure-3-harry_potter.png"
+            "name":"M House Hotel",
+            "description":"Este hotel boutique goza de una ubicación céntrica, a 100 metros de la plaza de España y la estación de tren de Sóller.",
+            "price":137.66,
+            "img":"househotel.webp"
         },
         {
             "id":4,
-            "name":"Hotel 4",
-            "description":"information of hero",
-            "price":124.95,
-            "type":"good",
-            "img":"figure-4-iron_spider_man.png"
+            "name":"Nou Baleares",
+            "description":"El Nou Baleares, situado en Palma de Mallorca, tiene restaurante, piscina exterior, centro de fitness, bar.",
+            "price":59.27,
+            "img":"nou.webp"
+        },
+        {
+            "id":5,
+            "name":"Roc Illetas",
+            "description":"El Roc Illetas ofrece 2 piscinas al aire libre, jardín y terraza con vistas al mar. ",
+            "price":67,
+            "img":"roc.webp"
+        },
+        {
+            "id":6,
+            "name":"Hotel Riu Festival",
+            "description":"El Hotel Riu Festival está ubicado en el distrito de Playa de Palma, a 600 metros de la discoteca Mega Park y a 2,5 km de la playa de Es Calonet des Fornàs.",
+            "price":59.27,
+            "img":"riu.webp"
         }
     ]
 }

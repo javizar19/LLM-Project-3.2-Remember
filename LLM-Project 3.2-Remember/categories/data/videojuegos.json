@@ -1,0 +1,48 @@
+{
+    "nameCollection":"Videojuegos",
+    "year":2021,
+    "figures":[
+        {
+            "id":1,
+            "name":"Call of duty World War 2",
+            "description":"Guerra",
+            "pegi":"+18",
+            "img":"callofdutyww2.jpg"
+        },
+        {
+            "id":2,
+            "name":"Fifa 21",
+            "description":"Fútbol",
+            "pegi":"+3",
+            "img":"fifa-21.jpg"
+        },
+        {
+            "id":3,
+            "name":"Apex Legends",
+            "description":"Battle Royale",
+            "pegi":"+16",
+            "img":"apex.jpg"
+        },
+        {
+            "id":4,
+            "name":"Star Wars Jedi: Fallen Order",
+            "description":"Videojuego de un jugador",
+            "pegi":"+16",
+            "img":"starwars.jpeg"
+        },
+        {
+            "id":5,
+            "name":"Los Sims 4",
+            "description":"Simulación",
+            "pegi":"+12",
+            "img":"sims4.png"
+        },
+        {
+            "id":6,
+            "name":"Detroit : Become Human",
+            "description":"Aventura gráfica",
+            "pegi":"+18",
+            "img":"detroit.jpg"
+        }
+    ]
+}

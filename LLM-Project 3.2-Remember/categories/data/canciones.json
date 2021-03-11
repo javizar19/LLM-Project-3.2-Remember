@@ -4,35 +4,46 @@
     "figures":[
         {
             "id":1,
-            "name":"Cancion 1",
-            "description":"information of hero",
-            "price":19.95,
-            "type":"bad",
-            "img":"figure-1-dementor.png"
+            "name":"No termino",
+            "artist":"Morat",
+            "place":"Spotify | Youtube | SoundCloud | y más...",
+            "img":"notermino.jpg"
         },
         {
             "id":2,
-            "name":"Cancion 2",
-            "description":"information of hero",
-            "price":75,
-            "type":"good",
-            "img":"figure-2-flash.png"
+            "name":"Como camarón",
+            "artist":"Estopa",
+            "place":"Spotify | Youtube | SoundCloud | y más...",
+            "img":"comocamaron.jpg"
         },
         {
             "id":3,
-            "name":"Cancion 3",
-            "description":"information of hero",
-            "price":20,
-            "type":"good",
-            "img":"figure-3-harry_potter.png"
+            "name":"Macarena",
+            "artist":"Los del río",
+            "place":"Spotify | Youtube | SoundCloud | y más...",
+            "img":"macarena.jpg"
         },
         {
             "id":4,
-            "name":"Cancion 4",
-            "description":"information of hero",
-            "price":124.95,
-            "type":"good",
-            "img":"figure-4-iron_spider_man.png"
+            "name":"Rayos de Sol",
+            "artist":"José de Rico, Henry Mendez ",
+            "place":"Spotify | Youtube | SoundCloud | y más...",
+            "img":"rayosdesol.jpg"
+        },
+        {
+            "id":5,
+            "name":"Thunder",
+            "artist":"Imagine Dragons ",
+            "place":"Spotify | Youtube | Deezer | y más...",
+            "img":"thunder.jpg"
+        }
+        ,
+        {
+            "id":6,
+            "name":"Tusa",
+            "artist":"Nicki Minaj, Karol G",
+            "place":"Spotify | Youtube | Deezer | y más...",
+            "img":"tusa.jpg"
         }
     ]
 }

@@ -50,13 +50,14 @@ body{
     grid-template-columns: repeat(auto-fill,minmax(160px, 1fr));
 }
 
-.contenedor #botones {
-    display: flexbox;
+.contenedor .contenido .botones {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
 }
 
 .contenedor #list-books {
     display: grid;
-    grid-template-columns: auto auto auto auto auto auto;
+    grid-template-columns: auto auto auto auto;
     grid-area: auto;
     grid-column-gap:10%;
     text-align: justify;

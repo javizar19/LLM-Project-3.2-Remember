@@ -1,0 +1,60 @@
+{
+    "nameCollection":"Peliculas",
+    "year":2021,
+    "figures":[
+        {
+            "id":1,
+            "name":"Las niñas",
+            "description":"Celia, una niña de 11 años, estudia en un colegio de monjas en Zaragoza y vive con su madre. Brisa, una nueva compañera recién llegada de Barcelona, la empuja hacia una nueva etapa en su vida: La adolescencia.",
+            "duracion":100,
+            "pegi":"No recomendable para menores de 7 años",
+            "type":"Drama",
+            "img":"niñas.jpg"
+        },
+        {
+            "id":2,
+            "name":"Entre Nosotras",
+            "description":"Nina y Madeleine han escondido su amor durante décadas. Para todos, incluida la entrometida hija de Madeleine, ellas son simplemente dos buenas vecinas que viven en la misma planta. Sin embargo, clandestinamente,",
+            "duracion":95,
+            "pegi":"No recomendable para menores de 7 años",
+            "type":"Comedia | Romántica",
+            "img":"nosotras.jpg"
+        },
+        {
+            "id":3,
+            "name":"Los Croods",
+            "description":"Los Croods han sobrevivido a todo tipo de peligros y desastres, desde bestias prehistóricas de inmensos colmillos hasta el mismísimo fin del mundo, pero ahora deberán afrontar su mayor desafío hasta la fecha: conocer a otra familia.",
+            "duracion":95,
+            "pegi":"Para todos los públicos",
+            "type":"Animación",
+            "img":"croods.jpg"
+        },
+        {
+            "id":4,
+            "name":"14 días, 12 noches",
+            "description":"La adolescente hija adoptada de Isabelle muere en un trágico accidente. Un año después, y aún conmocionada por la experiencia, Isabelle regresa al orfanato vietnamita con la esperanza de volver a conectarse emocionalmente con su hija Clara a través de su tierra natal.",
+            "duracion":99,
+            "pegi":"Para todos los públicos",
+            "type":"Drama",
+            "img":"14dias.jpg"
+        },
+        {
+            "id":5,
+            "name":"Nuevo Orden",
+            "description":"Una lujosa boda de la alta sociedad se tuerce cuando una inesperada revuelta social da paso a un violento golpe de estado, visto a través de los ojos de la joven y solidaria novia y de los sirvientes que trabajan para su adinerada familia.",
+            "duracion":86,
+            "pegi":"No recomendable para menores de 16 años",
+            "type":"Drama",
+            "img":"nuevoorden.jpg"
+        },
+        {
+            "id":6,
+            "name":"Pequeños detalles",
+            "description":"Envían a Joe «Deke» Deacon (Washington), el sheriff adjunto del condado de Kern, a Los Ángeles para lo que debería haber sido una tarea rápida de recopilación de pruebas. Pero Deke se ve envuelto en la búsqueda de un asesino en serie que aterroriza a la ciudad. ",
+            "duracion":128,
+            "pegi":"No recomendable para menores de 12 años",
+            "type":"Thriller | Suspense",
+            "img":"detalles.jpg"
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "nameCollection":"Series",
+    "year":2021,
+    "figures":[
+        {
+            "id":1,
+            "name":"3%",
+            "description":"En un futuro no muy lejano, los ciudadanos luchan por formar parte del grupo de los privilegiados y así evitar caer en la devastación.",
+            "red":"Netflix",
+            "img":"3.webp"
+        },
+        {
+            "id":2,
+            "name":"The Sinner",
+            "description":"Un detective problemático regresa a su ciudad natal para investigar por qué un joven asesinó a sus padres.",
+            "red":"Netflix",
+            "img":"sinner.jpg"
+        },
+        {
+            "id":3,
+            "name":"Fear The Walking Dead",
+            "description":"Cuando el apocalipsis zombie ocurre, los residentes de Los Ángeles deben lidiar con los brutales cambios que sus vidas experimentan.",
+            "red":"Prime Video",
+            "img":"fear.jpg"
+        },
+        {
+            "id":4,
+            "name":"Así Somos",
+            "description":"La historia de la familia Pearson comienza en 1979, cuando los trillizos de Jack y Rebecca llegan a la familia de una manera inesperada. ",
+            "red":"Prime Video",
+            "img":"somos.jpeg"
+        },
+        {
+            "id":5,
+            "name":"Peaky Blinders",
+            "description":"Gran Bretaña vive la posguerra. Los soldados regresan, se acuñan nuevas revoluciones y nacen bandas criminales en una nación agitada.",
+            "red":"Netflix",
+            "img":"peaky.jpg"
+        },
+        {
+            "id":6,
+            "name":"Los 100",
+            "description":"Un apocalipsis nuclear destruye la vida humana en la Tierra. Los únicos supervivientes son los habitantes de las estaciones espaciales internacionales.",
+            "red":"Netflix",
+            "img":"cien.jpg"
+        }
+    ]
+}

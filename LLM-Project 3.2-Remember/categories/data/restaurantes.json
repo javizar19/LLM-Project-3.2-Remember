@@ -1,0 +1,48 @@
+{
+    "nameCollection":"Restaurantes",
+    "year":2021,
+    "figures":[
+        {
+            "id":1,
+            "name":"Cannibal Cantina Bistro",
+            "place":"Plaça de Sant Antoni 8, Palma de Mallorca",
+            "tlf":"+34 662 54 20 89",
+            "img":"cannibal.jpg"
+        },
+        {
+            "id":2,
+            "name":"Sa Cuina De Mercat en Palma de Mallorca ",
+            "place":" Plaza del olivar, 5 Palma de Mallorca",
+            "tlf":" +34 622 79 05 08",
+            "img":"cuinamercat.jpg"
+        },
+        {
+            "id":3,
+            "name":"Arume Sushi en Palma de Mallorca ",
+            "place":"Sant Miquel, 83 Palma de Mallorca",
+            "tlf":"971214121",
+            "img":"sushi.jpg"
+        },
+        {
+            "id":4,
+            "name":"Adrian Quetglas Restaurant en Palma de Mallorca ",
+            "place":" Passeig de Mallorca, 20 Palma de Mallorca ",
+            "tlf":"+34 971 78 11 19",
+            "img":"quetglas.jpg"
+        },
+        {
+            "id":5,
+            "name":"Mistral Coffee Roasters en Palma de Mallorca ",
+            "place":" Carrer del Banc 4 Palma de Mallorca ",
+            "tlf":"+34 634 35 11 87",
+            "img":"mistral.jpg"
+        },
+        {
+            "id":6,
+            "name":"Millo Cocina Mestiza en Palma de Mallorca  ",
+            "place":" Calle caro 30 Palma de Mallorca",
+            "tlf":"+34 871 040 413",
+            "img":"millo.jpg"
+        }
+    ]
+}
