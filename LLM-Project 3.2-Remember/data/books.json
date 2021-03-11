@@ -1,7 +1,8 @@
 [
     {
         "id":1,
-        "title":"Call of duty ww2",
+        "title":"videojuego , juego , game",
+        "category":"Call of duty ww2",
         "yearRelease": "Es un videojuego de disparos en primera persona desarrollado por Sledgehammer Games, distribuido por Activision, perteneciente a la franquicia Call of Duty y es la décimo cuarta entrega de la saga",
         "price":40,
         "writers":[
@@ -21,7 +22,8 @@
     },
     {
         "id":2,
-        "title":"Fifa 21",
+        "title":"videojuego , juego , game",
+        "category":"Fifa 21",
         "yearRelease": "Es un videojuego de simulación de fútbol del año 2020 disponible para Microsoft Windows, PlayStation 4, Xbox One y Nintendo Switch el 9 de octubre de 2020, y aparte es el primer videojuego de la serie FIFA para Google Stadia, PlayStation 5 y Xbox Series X|S",
         "price":59,
         "writers":[
@@ -36,7 +38,8 @@
     },
     {
         "id":3,
-        "title":"Apex Legends",
+        "title":"serie",
+        "category":"Apex Legends",
         "yearRelease": "Es un videojuego gratuito perteneciente al género battle royale desarrollado por Respawn Entertainment y publicado por Electronic Arts. Fue lanzado para Microsoft Windows, PlayStation 4 y Xbox One el 4 de febrero de 2019.",
         "price": "0",
         "writers":[
@@ -56,7 +59,8 @@
     },
     {
         "id":4,
-        "title":"Star Wars Jedi: Fallen Order",
+        "title":"serie",
+        "category":"Star Wars Jedi: Fallen Order",
         "yearRelease": "Es un videojuego de acción y aventura para un solo jugador desarrollado por Respawn Entertainment y publicado por Electronic Arts, ambientado en el universo de Star Wars. La trama se sitúa entre el Episodio lll: La Venganza de los Sith y el Episodio lV: Una Nueva Esperanza.​",
         "price":69.99,
         "writers":[
@@ -76,7 +80,8 @@
     },
     {
         "id":5,
-        "title":"Los sims 4",
+        "title":"cancion , canço , song",
+        "category":"Los Sims4",
         "yearRelease": "Es la cuarta entrega de la serie de videojuego de simulación social y de vida, Los Sims. El juego fue anunciado originalmente el 6 de mayo de 2013, ​ y puesto en libertad el 2 de septiembre de 2014, para Microsoft Windows.",
         "price":19.95,
         "writers":[
@@ -96,7 +101,8 @@
     },
     {
         "id":6,
-        "title":"Detroit: Become Human",
+        "title":"film , pelis , peliculas",
+        "category":"Detroit",
         "yearRelease": "Es un videojuego de aventura gráfica, desarrollado por Quantic Dream y publicado por Sony Interactive Entertainment, inicialmente lanzado en exclusiva para la consola ​",
         "price":62.90,
         "writers":[
@@ -112,6 +118,132 @@
                 }
         ],
         "img":"detroit.jpg"
+
+    },
+    {
+        "id":7,
+        "title":"restaurante, restaurants, restaurant",
+        "category":"Los Sims4",
+        "yearRelease": "Es la cuarta entrega de la serie de videojuego de simulación social y de vida, Los Sims. El juego fue anunciado originalmente el 6 de mayo de 2013, ​ y puesto en libertad el 2 de septiembre de 2014, para Microsoft Windows.",
+        "price":19.95,
+        "writers":[
+                {
+                    "name":"Maria",
+                    "surname": "Hernández",
+                    "country":"France"
+                },
+                {
+                    "name":"Marisa",
+                    "surname": "Salire",
+                    "country":"France"
+                }
+        ],
+        "img":"sims4.png"
+
+    },
+    {
+        "id":8,
+        "title":"cancion , canço , song",
+        "category":"Los Sims4",
+        "yearRelease": "Es la cuarta entrega de la serie de videojuego de simulación social y de vida, Los Sims. El juego fue anunciado originalmente el 6 de mayo de 2013, ​ y puesto en libertad el 2 de septiembre de 2014, para Microsoft Windows.",
+        "price":19.95,
+        "writers":[
+                {
+                    "name":"Maria",
+                    "surname": "Hernández",
+                    "country":"France"
+                },
+                {
+                    "name":"Marisa",
+                    "surname": "Salire",
+                    "country":"France"
+                }
+        ],
+        "img":"sims4.png"
+
+    },
+    {
+        "id":9,
+        "title":"hotel, hotels",
+        "category":"Los Sims4",
+        "yearRelease": "Es la cuarta entrega de la serie de videojuego de simulación social y de vida, Los Sims. El juego fue anunciado originalmente el 6 de mayo de 2013, ​ y puesto en libertad el 2 de septiembre de 2014, para Microsoft Windows.",
+        "price":19.95,
+        "writers":[
+                {
+                    "name":"Maria",
+                    "surname": "Hernández",
+                    "country":"France"
+                },
+                {
+                    "name":"Marisa",
+                    "surname": "Salire",
+                    "country":"France"
+                }
+        ],
+        "img":"sims4.png"
+
+    },
+    {
+        "id":10,
+        "title":"viajes, trips, viatges",
+        "category":"Los Sims4",
+        "yearRelease": "Es la cuarta entrega de la serie de videojuego de simulación social y de vida, Los Sims. El juego fue anunciado originalmente el 6 de mayo de 2013, ​ y puesto en libertad el 2 de septiembre de 2014, para Microsoft Windows.",
+        "price":19.95,
+        "writers":[
+                {
+                    "name":"Maria",
+                    "surname": "Hernández",
+                    "country":"France"
+                },
+                {
+                    "name":"Marisa",
+                    "surname": "Salire",
+                    "country":"France"
+                }
+        ],
+        "img":"sims4.png"
+
+    },
+    {
+        "id":11,
+        "title":"viajes, trips, viatges",
+        "category":"Los Sims4",
+        "yearRelease": "Es la cuarta entrega de la serie de videojuego de simulación social y de vida, Los Sims. El juego fue anunciado originalmente el 6 de mayo de 2013, ​ y puesto en libertad el 2 de septiembre de 2014, para Microsoft Windows.",
+        "price":19.95,
+        "writers":[
+                {
+                    "name":"Maria",
+                    "surname": "Hernández",
+                    "country":"France"
+                },
+                {
+                    "name":"Marisa",
+                    "surname": "Salire",
+                    "country":"France"
+                }
+        ],
+        "img":"sims4.png"
+
+    },
+    {
+        "id":12,
+        "title":"film , pelis , peliculas",
+        "category":"Los Sims4",
+        "yearRelease": "Es la cuarta entrega de la serie de videojuego de simulación social y de vida, Los Sims. El juego fue anunciado originalmente el 6 de mayo de 2013, ​ y puesto en libertad el 2 de septiembre de 2014, para Microsoft Windows.",
+        "price":19.95,
+        "writers":[
+                {
+                    "name":"Maria",
+                    "surname": "Hernández",
+                    "country":"France"
+                },
+                {
+                    "name":"Marisa",
+                    "surname": "Salire",
+                    "country":"France"
+                }
+        ],
+        "img":"sims4.png"
 
     }
 

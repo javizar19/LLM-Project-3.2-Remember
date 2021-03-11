@@ -1,0 +1,38 @@
+{
+    "nameCollection":"Canciones",
+    "year":2021,
+    "figures":[
+        {
+            "id":1,
+            "name":"Hotel 1",
+            "description":"information of hero",
+            "price":19.95,
+            "type":"bad",
+            "img":"figure-1-dementor.png"
+        },
+        {
+            "id":2,
+            "name":"Hotel 2",
+            "description":"information of hero",
+            "price":75,
+            "type":"good",
+            "img":"figure-2-flash.png"
+        },
+        {
+            "id":3,
+            "name":"Hotel 3",
+            "description":"information of hero",
+            "price":20,
+            "type":"good",
+            "img":"figure-3-harry_potter.png"
+        },
+        {
+            "id":4,
+            "name":"Hotel 4",
+            "description":"information of hero",
+            "price":124.95,
+            "type":"good",
+            "img":"figure-4-iron_spider_man.png"
+        }
+    ]
+}

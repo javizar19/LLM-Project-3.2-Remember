@@ -1,13 +1,13 @@
 
-function comprar(){
+function comprar() {
     alert("Añadido a la lista de compra")
 }
-function noComprar(){
+function noComprar() {
     alert("Añadido a la lista de NO compra")
 }
 
 
-function registrar(){
+function registrar() {
     alert("Te has registrado correctamente")
 }
 
@@ -27,7 +27,7 @@ function init() {
                     return title.indexOf(titleSearch) > -1;
                 });
             populateTable(results);
-        }else if (this.value.length == 0){
+        } else if (this.value.length == 0) {
             populateTable(booksJSON);
         }
 
@@ -62,11 +62,16 @@ function populateTable(data) {
         htmlWriters = htmlWriters.substr(0, htmlWriters.length - 1);
 
         let htmlBook = `
-                  <u><i><b>${book.title}</b><i></u>
-                  ${book.yearRelease}<br>
-                  <b>Precio del producto: ${book.price}€</b><br>
-                  <img src="./img/${book.img} " alt="" style="height: 150px;margin-bottom: 20px;">
-              <hr style="height:3px">
+
+              <div class="card" style="width: 18rem; margin-top:30px; margin-bottom:30px;">
+                    <img class="card-img-top" src="./img/${book.img} " alt="Card image cap">
+                    <div class="card-body">
+                        <h5 class="card-title"><u><i><b>${book.category}</b></i></u></h5>
+                        <p class="card-text">${book.yearRelease}</p><br>
+                        <p><b>Precio del producto: ${book.price}€</b></p><br>
+                        <a href="#" class="btn btn-primary" onclick="compra()">Añadir al carrito</a>
+                    </div>
+            </div>
           `;
         // Add the new row with all data of one book
         tagContainer.innerHTML += htmlBook;
@@ -74,17 +79,11 @@ function populateTable(data) {
     });
 }
 
-console.log("Programar mola!");
-
-class Auto {
-
-
-    total() {
-        alert('hola')
-    }
-
+function compra(){
+    alert("Artículo añadido al carrito de la compra");
 }
-var Usuario = new Auto();
+
+console.log("Programar mola!");
 
 init();
 
@@ -110,7 +109,18 @@ function saveUserInStorage() {
 
 
 
-function login(){
-        alert("Has iniciado sesión correctamente");
-        console.log("Sesión iniciada correctamente");
+function login() {
+    alert("Has iniciado sesión correctamente");
+    console.log("Sesión iniciada correctamente");
 }
+
+
+
+
+
+
+{/* <u><i><b>${book.category}</b><i></u>
+                  ${book.yearRelease}<br>
+                  <b>Precio del producto: ${book.price}€</b><br>
+                  <img src="./img/${book.img} " alt="" style="height: 150px;margin-bottom: 20px;">
+              <hr style="height:3px"></hr> */}
