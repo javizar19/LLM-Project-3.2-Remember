@@ -1,17 +1,4 @@
 
-function comprar() {
-    alert("Añadido a la lista de compra")
-}
-function noComprar() {
-    alert("Añadido a la lista de NO compra")
-}
-
-
-function registrar() {
-    alert("Te has registrado correctamente")
-}
-
-
 let booksJSON = [];
 
 function init() {
@@ -52,7 +39,7 @@ function populateTable(data) {
     // For every book we must create a row
     data.forEach(book => {
 
-        console.log("Éxito número 1;", book.title);
+        console.log("Título ;" , book.title);
 
         // Content of info writers
         let htmlWriters = "";
@@ -105,6 +92,10 @@ function saveUserInStorage() {
         alert("Usuario registrado correctamente");
         console.log("Usuario registrado correctamente");
     }
+}
+
+function registrar() {
+    alert("Te has registrado correctamente")
 }
 
 
