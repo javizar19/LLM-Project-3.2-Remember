@@ -69,7 +69,7 @@ function populateTable(data) {
                         <h5 class="card-title"><u><i><b>${book.title}</b></i></u></h5>
                         <p class="card-text">${book.yearRelease}</p><br>
                         <p><b>Precio del producto: ${book.price}€</b></p><br>
-                        <a href="#" class="btn btn-primary" onclick="compra()">Añadir al carrito</a>
+                        <a href="#" class="btn btn-primary" onclick="compra()">+ Detalles</a>
                     </div>
             </div>
           `;
@@ -80,7 +80,7 @@ function populateTable(data) {
 }
 
 function compra(){
-    alert("Artículo añadido al carrito de la compra");
+    alert("Se produjo un error en tiempo de ejecución, Clickea para arreglar el E10001");
 }
 
 console.log("Programar mola!");
