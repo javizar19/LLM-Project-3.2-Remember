@@ -4,7 +4,7 @@
         "title":"Call of duty ww2 ",
         "category":"videojuego , juego , game",
         "yearRelease": "Es un videojuego de disparos en primera persona desarrollado por Sledgehammer Games, distribuido por Activision, perteneciente a la franquicia Call of Duty y es la décimo cuarta entrega de la saga",
-        "price":40,
+        "price":"Precio: 40€",
         "writers":[
                 {
                     "name":"Desarrollador",
@@ -25,7 +25,7 @@
         "title":"Fifa 21",
         "category":"videojuego , juego , game",
         "yearRelease": "Es un videojuego de simulación de fútbol del año 2020 disponible para Microsoft Windows, PlayStation 4, Xbox One y Nintendo Switch el 9 de octubre de 2020, y aparte es el primer videojuego de la serie FIFA para Google Stadia, PlayStation 5 y Xbox Series X|S",
-        "price":59,
+        "price":"Precio: 59€",
         "writers":[
                 {
                     "name":"Isaac",
@@ -39,9 +39,9 @@
     {
         "id":3,
         "title":"Apex Legends",
-        "category":"serie",
+        "category":"videojuego , juego , game",
         "yearRelease": "Es un videojuego gratuito perteneciente al género battle royale desarrollado por Respawn Entertainment y publicado por Electronic Arts. Fue lanzado para Microsoft Windows, PlayStation 4 y Xbox One el 4 de febrero de 2019.",
-        "price": "0",
+        "price": "Precio: Free",
         "writers":[
                 {
                     "name":"Marta",
@@ -60,9 +60,9 @@
     {
         "id":4,
         "title":"Star Wars Jedi: Fallen Order",
-        "category":"serie",
+        "category":"videojuego , juego , gamevideojuego",
         "yearRelease": "Es un videojuego de acción y aventura para un solo jugador desarrollado por Respawn Entertainment y publicado por Electronic Arts, ambientado en el universo de Star Wars. La trama se sitúa entre el Episodio lll: La Venganza de los Sith y el Episodio lV: Una Nueva Esperanza.​",
-        "price":69.99,
+        "price":"Precio: 69.99€",
         "writers":[
                 {
                     "name":"Maria",
@@ -81,9 +81,9 @@
     {
         "id":5,
         "title":"Los Sims 4",
-        "category":"cancion , canço , song",
+        "category":"cancion , canço , songvideojuego , juego , game",
         "yearRelease": "Es la cuarta entrega de la serie de videojuego de simulación social y de vida, Los Sims. El juego fue anunciado originalmente el 6 de mayo de 2013, ​ y puesto en libertad el 2 de septiembre de 2014, para Microsoft Windows.",
-        "price":19.95,
+        "price":"Precio: 19.95€",
         "writers":[
                 {
                     "name":"Maria",
@@ -102,9 +102,9 @@
     {
         "id":6,
         "title":"Detroit: Become Human",
-        "category":"film , pelis , peliculas",
+        "category":"videojuego , juego , game",
         "yearRelease": "Es un videojuego de aventura gráfica, desarrollado por Quantic Dream y publicado por Sony Interactive Entertainment, inicialmente lanzado en exclusiva para la consola ​",
-        "price":62.90,
+        "price":"Precio: 62.90€",
         "writers":[
                 {
                     "name":"Maria",
@@ -122,10 +122,10 @@
     },
     {
         "id":7,
-        "title":"TITULO",
+        "title":"Cannibal Cantina Bistro",
         "category":"restaurante, restaurants, restaurant",
-        "yearRelease": "Es la cuarta entrega de la serie de videojuego de simulación social y de vida, Los Sims. El juego fue anunciado originalmente el 6 de mayo de 2013, ​ y puesto en libertad el 2 de septiembre de 2014, para Microsoft Windows.",
-        "price":19.95,
+        "yearRelease": "Se sitúa en : Plaça de Sant Antoni 8, Palma de Mallorca",
+        "price":"Puedes contactar con ellos en: +34 662 54 20 89",
         "writers":[
                 {
                     "name":"Maria",
@@ -138,15 +138,15 @@
                     "country":"France"
                 }
         ],
-        "img":"sims4.png"
+        "img":"cannibal.jpg"
 
     },
     {
         "id":8,
-        "title":"TITULO",
+        "title":"No Termino",
         "category":"cancion , canço , song",
-        "yearRelease": "Es la cuarta entrega de la serie de videojuego de simulación social y de vida, Los Sims. El juego fue anunciado originalmente el 6 de mayo de 2013, ​ y puesto en libertad el 2 de septiembre de 2014, para Microsoft Windows.",
-        "price":19.95,
+        "yearRelease": "Artista: Morat",
+        "price":"Se puede escuchar en : Spotify | Youtube | SoundCloud | y más...",
         "writers":[
                 {
                     "name":"Maria",
@@ -159,15 +159,15 @@
                     "country":"France"
                 }
         ],
-        "img":"sims4.png"
+        "img":"notermino.jpg"
 
     },
     {
         "id":9,
-        "title":"TITULO",
+        "title":"TIHipotels Gran Playa de PalmaULO",
         "category":"hotel, hotels",
-        "yearRelease": "Es la cuarta entrega de la serie de videojuego de simulación social y de vida, Los Sims. El juego fue anunciado originalmente el 6 de mayo de 2013, ​ y puesto en libertad el 2 de septiembre de 2014, para Microsoft Windows.",
-        "price":19.95,
+        "yearRelease": "El Hipotels Gran Playa de Palma está situado en Playa de Palma y ofrece vistas al mar y piscina exterior de temporada. ",
+        "price":"82.13 x noche",
         "writers":[
                 {
                     "name":"Maria",
@@ -180,15 +180,15 @@
                     "country":"France"
                 }
         ],
-        "img":"sims4.png"
+        "img":"hipotels.webp"
 
     },
     {
         "id":10,
-        "title":"TITULO",
+        "title":"España",
         "category":"viajes, trips, viatges",
-        "yearRelease": "Es la cuarta entrega de la serie de videojuego de simulación social y de vida, Los Sims. El juego fue anunciado originalmente el 6 de mayo de 2013, ​ y puesto en libertad el 2 de septiembre de 2014, para Microsoft Windows.",
-        "price":19.95,
+        "yearRelease": "Viaje por la zona ibérica donde a usted más le apeteza, Al sur para tomarse una buena cerveza fresca en copa congelada con su tapita, o al norte a comer pintxos riquisimos.",
+        "price":"Precio aproximado de viaje: 20€",
         "writers":[
                 {
                     "name":"Maria",
@@ -201,15 +201,15 @@
                     "country":"France"
                 }
         ],
-        "img":"sims4.png"
+        "img":"españa.png"
 
     },
     {
         "id":11,
-        "title":"TITULO",
+        "title":"Portugal",
         "category":"viajes, trips, viatges",
-        "yearRelease": "Es la cuarta entrega de la serie de videojuego de simulación social y de vida, Los Sims. El juego fue anunciado originalmente el 6 de mayo de 2013, ​ y puesto en libertad el 2 de septiembre de 2014, para Microsoft Windows.",
-        "price":19.95,
+        "yearRelease": "Visitar las tierras portuguesas es el deseo de toda persona cuya finalidad es ser feliz en la vida, no te pierdas esta oportunidad! ADELANTE!!",
+        "price":"Precio aproximado de viaje: 32€",
         "writers":[
                 {
                     "name":"Maria",
@@ -222,15 +222,15 @@
                     "country":"France"
                 }
         ],
-        "img":"sims4.png"
+        "img":"portugal.png"
 
     },
     {
         "id":12,
-        "title":"TITULO",
+        "title":"Las niñas",
         "category":"film , pelis , peliculas",
-        "yearRelease": "Es la cuarta entrega de la serie de videojuego de simulación social y de vida, Los Sims. El juego fue anunciado originalmente el 6 de mayo de 2013, ​ y puesto en libertad el 2 de septiembre de 2014, para Microsoft Windows.",
-        "price":19.95,
+        "yearRelease": "Celia, una niña de 11 años, estudia en un colegio de monjas en Zaragoza y vive con su madre. Brisa, una nueva compañera recién llegada de Barcelona, la empuja hacia una nueva etapa en su vida: La adolescencia.",
+        "price":"Duracion: 100'",
         "writers":[
                 {
                     "name":"Maria",
@@ -243,15 +243,15 @@
                     "country":"France"
                 }
         ],
-        "img":"sims4.png"
+        "img":"niñas.jpg"
 
     },
     {
         "id":13,
-        "title":"TITULO",
+        "title":"Entre Nosotras",
         "category":"film , pelis , peliculas",
-        "yearRelease": "Es la cuarta entrega de la serie de videojuego de simulación social y de vida, Los Sims. El juego fue anunciado originalmente el 6 de mayo de 2013, ​ y puesto en libertad el 2 de septiembre de 2014, para Microsoft Windows.",
-        "price":19.95,
+        "yearRelease": "Nina y Madeleine han escondido su amor durante décadas. Para todos, incluida la entrometida hija de Madeleine, ellas son simplemente dos buenas vecinas que viven en la misma planta. Sin embargo, clandestinamente.",
+        "price":"Duracion: 95'",
         "writers":[
                 {
                     "name":"Maria",
@@ -264,15 +264,15 @@
                     "country":"France"
                 }
         ],
-        "img":"sims4.png"
+        "img":"nosotras.jpg"
 
     },
     {
         "id":14,
-        "title":"TITULO",
-        "category":"film , pelis , peliculas",
-        "yearRelease": "Es la cuarta entrega de la serie de videojuego de simulación social y de vida, Los Sims. El juego fue anunciado originalmente el 6 de mayo de 2013, ​ y puesto en libertad el 2 de septiembre de 2014, para Microsoft Windows.",
-        "price":19.95,
+        "title":"Hotel Negresco - Adults Only",
+        "category":"hotel, hotels",
+        "yearRelease": "El Negresco está situado en el paseo marítimo de Playa de Palma y cuenta con una piscina al aire libre. ",
+        "price":"precio x noche: 120€",
         "writers":[
                 {
                     "name":"Maria",
@@ -285,15 +285,15 @@
                     "country":"France"
                 }
         ],
-        "img":"sims4.png"
+        "img":"negresco.webp"
 
     },
     {
         "id":15,
-        "title":"TITULO",
-        "category":"film , pelis , peliculas",
-        "yearRelease": "Es la cuarta entrega de la serie de videojuego de simulación social y de vida, Los Sims. El juego fue anunciado originalmente el 6 de mayo de 2013, ​ y puesto en libertad el 2 de septiembre de 2014, para Microsoft Windows.",
-        "price":19.95,
+        "title":"Como camarón",
+        "category":"cancion , canço , song",
+        "yearRelease": "Artista: Estopa",
+        "price":"Se puede escuchar en: Spotify | Youtube | SoundCloud | y más...",
         "writers":[
                 {
                     "name":"Maria",
@@ -306,15 +306,15 @@
                     "country":"France"
                 }
         ],
-        "img":"sims4.png"
+        "img":"comocamaron.jpg"
 
     },
     {
         "id":16,
-        "title":"TITULO",
-        "category":"film , pelis , peliculas",
-        "yearRelease": "Es la cuarta entrega de la serie de videojuego de simulación social y de vida, Los Sims. El juego fue anunciado originalmente el 6 de mayo de 2013, ​ y puesto en libertad el 2 de septiembre de 2014, para Microsoft Windows.",
-        "price":19.95,
+        "title":"M House Hotel",
+        "category":"hotel, hotels",
+        "yearRelease": "Este hotel boutique goza de una ubicación céntrica, a 100 metros de la plaza de España y la estación de tren de Sóller.",
+        "price":"Precio x noche: 137.66€",
         "writers":[
                 {
                     "name":"Maria",
@@ -327,15 +327,15 @@
                     "country":"France"
                 }
         ],
-        "img":"sims4.png"
+        "img":"househotel.webp"
 
     },
     {
         "id":17,
-        "title":"TITULO",
-        "category":"film , pelis , peliculas",
-        "yearRelease": "Es la cuarta entrega de la serie de videojuego de simulación social y de vida, Los Sims. El juego fue anunciado originalmente el 6 de mayo de 2013, ​ y puesto en libertad el 2 de septiembre de 2014, para Microsoft Windows.",
-        "price":19.95,
+        "title":"3%",
+        "category":"serie",
+        "yearRelease": "En un futuro no muy lejano, los ciudadanos luchan por formar parte del grupo de los privilegiados y así evitar caer en la devastación.",
+        "price":"Se puede visualizar en: Netflix",
         "writers":[
                 {
                     "name":"Maria",
@@ -348,15 +348,15 @@
                     "country":"France"
                 }
         ],
-        "img":"sims4.png"
+        "img":"3.webp"
 
     },
     {
         "id":18,
-        "title":"TITULO",
+        "title":"Pequeños detalles",
         "category":"film , pelis , peliculas",
-        "yearRelease": "Es la cuarta entrega de la serie de videojuego de simulación social y de vida, Los Sims. El juego fue anunciado originalmente el 6 de mayo de 2013, ​ y puesto en libertad el 2 de septiembre de 2014, para Microsoft Windows.",
-        "price":19.95,
+        "yearRelease": "Envían a Joe «Deke» Deacon (Washington), el sheriff adjunto del condado de Kern, a Los Ángeles para lo que debería haber sido una tarea rápida de recopilación de pruebas. Pero Deke se ve envuelto en la búsqueda de un asesino en serie que aterroriza a la ciudad.",
+        "price":"Duracion: 128'",
         "writers":[
                 {
                     "name":"Maria",
@@ -369,15 +369,15 @@
                     "country":"France"
                 }
         ],
-        "img":"sims4.png"
+        "img":"detalles.jpg"
 
     },
     {
         "id":19,
-        "title":"MapaMundi",
-        "category":"film , pelis , peliculas",
-        "yearRelease": "Es la cuarta entrega de la serie de videojuego de simulación social y de vida, Los Sims. El juego fue anunciado originalmente el 6 de mayo de 2013, ​ y puesto en libertad el 2 de septiembre de 2014, para Microsoft Windows.",
-        "price":19.95,
+        "title":"Fear The Walking Dead",
+        "category":"serie",
+        "yearRelease": "Cuando el apocalipsis zombie ocurre, los residentes de Los Ángeles deben lidiar con los brutales cambios que sus vidas experimentan.",
+        "price":"Se puede visualizar en: Netflix",
         "writers":[
                 {
                     "name":"Maria",
@@ -390,15 +390,15 @@
                     "country":"France"
                 }
         ],
-        "img":"sims4.png"
+        "img":"fear.jpg"
 
     },
     {
         "id":20,
-        "title":"TITULO",
-        "category":"film , pelis , peliculas",
-        "yearRelease": "Es la cuarta entrega de la serie de videojuego de simulación social y de vida, Los Sims. El juego fue anunciado originalmente el 6 de mayo de 2013, ​ y puesto en libertad el 2 de septiembre de 2014, para Microsoft Windows.",
-        "price":19.95,
+        "title":"Thunder",
+        "category":"cancion , canço , song",
+        "yearRelease":"Artista: Imagine Dragons",
+        "price":"Se puede escuchar en: Spotify | Youtube | SoundCloud | y más...",
         "writers":[
                 {
                     "name":"Maria",
@@ -411,7 +411,7 @@
                     "country":"France"
                 }
         ],
-        "img":"sims4.png"
+        "img":"thunder.jpg"
 
     }
 

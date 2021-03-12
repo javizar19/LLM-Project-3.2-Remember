@@ -51,11 +51,11 @@ function populateTable(data) {
         let htmlBook = `
 
               <div class="card" style="width: 18rem; margin-top:30px; margin-bottom:30px;">
-                    <img class="card-img-top" src="./img/${book.img} " alt="Card image cap">
+                    <img class="card-img-top" src="./img/${book.img} " alt="Card image cap" width="260px" height="220">
                     <div class="card-body">
                         <h5 class="card-title"><u><i><b>${book.title}</b></i></u></h5>
                         <p class="card-text">${book.yearRelease}</p><br>
-                        <p><b>Precio del producto: ${book.price}€</b></p><br>
+                        <p><b>${book.price}</b></p><br>
                         <a href="#" class="btn btn-primary" onclick="compra()">+ Detalles</a>
                     </div>
             </div>
