@@ -16,3 +16,7 @@ body{
     display: grid;
 }
 
+.contenedor .footer{
+    background: #11203E;
+    color: white;
+}
